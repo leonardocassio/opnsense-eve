@@ -9,7 +9,7 @@
 2- Execute:
 
 ```
-  wget https://raw.githubusercontent.com/leonardocassio/huawei-eve/master/Install-OPNsense.sh -O /root/Install-OPNsense.sh
+  wget https://raw.githubusercontent.com/leonardocassio/opnsense-eve/master/Install-OPNsense.sh -O /root/Install-OPNsense.sh
 
   chmod +x /root/Install-OPNsense.sh
 
